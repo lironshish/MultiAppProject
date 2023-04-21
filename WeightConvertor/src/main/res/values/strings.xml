@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Weight Calculator</string>
+    <string name="unit_size_title">Enter Units Size in Lb</string>
+    <string name="app_title">Weight Converter</string>
+</resources>
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Length Unit Converter</string>
+    <string name="unit_size_title">Enter Units Size in Inch</string>
+    <string name="app_title">Length Unit Converter</string>
+</resources>
